@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="employeemgmt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/employeemgmt_jar</output-path>
+    <root id="archive" name="employeemgmt.jar">
+      <element id="module-output" name="employeemgmt" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.9.1/mongo-java-driver-3.9.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
